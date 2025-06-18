@@ -25,6 +25,7 @@ Over 3 years in lab-based R&D and production roles, including:
 **Languages & Tools:** Python, SQL, Tableau, scikit-learn, Git, Excel  
 **Lab & Data Tools:** Flow Cytometry, Novocyte, PAM, PCR, CRISPR, LIMS  
 **Techniques:** EDA, ML modeling, Data Visualization, SOP writing, Experimental Design
+
 ---
 ## 📄 [View My Resume (PDF)](https://github.com/shailynieves/shailynieves.github.io/blob/main/ShailyNA-Resume.pdf)
 ---
