@@ -55,5 +55,5 @@ Over 3 years in lab-based R&D and production roles, including:
 ## 🔗 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/shaily-nieves-adame-162719297)
-- [GitHub](https://github.com/shailynieves)
+- [GitHub](https://github.com/ShailyNA)
 - 📧 Shailynieves@gmail.com
