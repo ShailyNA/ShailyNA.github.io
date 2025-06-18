@@ -7,11 +7,6 @@ I’m passionate about turning biological complexity into actionable insights th
 ---
 ## 📊 Featured Projects
 ### [ (Coming Soon)]
----
-### []
----
-### [(Coming Soon)]()
----
 ## 🎓 Education & Certifications
 
 - **M.S. in Data Science**, UC San Diego (Expected 2026)  
